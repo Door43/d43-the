@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[the:home|Door43 (the)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-the|d43-the repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-the/archive/master.zip|d43-the.zip]]
+
+**Recent Changes**
+{{changes>ns = the}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/the|Ethnologue data]]
+
